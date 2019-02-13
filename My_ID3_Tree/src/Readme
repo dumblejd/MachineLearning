@@ -1,0 +1,6 @@
+This function is written in jave
+
+To use the function, you should use following format:
+
+Util_ID3 myid3 = new Util_ID3();
+outerinterface(String trainingpath,String validationpath,String testingpath,double rate)

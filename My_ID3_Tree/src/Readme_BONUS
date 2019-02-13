@@ -1,0 +1,6 @@
+This function is written in jave
+
+To use the function, you should use following format:
+
+Util_random myid3 = new Util_random();
+outerinterface(String trainingpath,String validationpath,String testingpath)
